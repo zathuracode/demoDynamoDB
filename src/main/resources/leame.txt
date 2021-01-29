@@ -1,0 +1,2 @@
+1. Cree una tabla usuaios
+2. la llave de la tabla es el email
